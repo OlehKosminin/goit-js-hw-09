@@ -15,7 +15,7 @@ const refs = {
   fieldEl: document.querySelectorAll('.field'),
 };
 
-console.log((refs.fieldEl.style.display = 'inline-grid'));
+// console.log((refs.fieldEl.style.display = 'inline-grid'));
 // console.log(refs.wraperEl);
 
 refs.wraperEl.style.fontSize = '20px';
